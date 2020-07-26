@@ -3,7 +3,6 @@
 """
 Command line utility that accepts a word file and prints a dictionary of
 anagrams for that file.
-
 Module provides a function, find_anagrams(), which can be used to do the same
 for an arbitrary list of strings.
 """

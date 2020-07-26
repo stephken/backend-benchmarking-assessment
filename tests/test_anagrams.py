@@ -5,7 +5,7 @@ import timeit
 import json
 import functools
 
-__author__ = "madarp"
+__author__ = "Ken Stephens"
 
 
 class TestAnagrams(unittest.TestCase):
